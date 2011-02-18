@@ -1,0 +1,4 @@
+Just enter the path to your wordpress file. 
+I used a method called print_vars for outputs. Thats bad. Feel free to use 
+__toString().
+
